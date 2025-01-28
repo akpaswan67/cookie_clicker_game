@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.clicker-btn {
+  font-size: 24px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.scoreboard h2 {
+  margin: 10px 0;
+}
